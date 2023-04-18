@@ -1,0 +1,345 @@
+name,current_club_name,country_of_citizenship,country_of_birth,date_of_birth,position,sub_position,foot,height_in_cm,market_value_in_eur,current_club_domestic_competition_id
+Gabriel Barbosa,Inter Mailand,Brazil,Brazil,1996-08-30,Attack,Centre-Forward,Left,178,22000000.0,IT1
+Aleksandar Mitrović,Fc Fulham,Serbia,Yugoslavia (Republic),1994-09-16,Attack,Centre-Forward,Right,189,28000000.0,GB1
+Gianluigi Donnarumma,Fc Paris Saint Germain,Italy,Italy,1999-02-25,Goalkeeper,,Right,196,50000000.0,FR1
+Nathan Collins,Fc Burnley,Ireland,Ireland,2001-04-30,Defender,Centre-Back,Right,193,22000000.0,GB1
+James Tarkowski,Fc Burnley,England,England,1992-11-19,Defender,Centre-Back,Right,185,22000000.0,GB1
+Arnaud Kalimuendo,Fc Paris Saint Germain,France,France,2002-01-20,Attack,Centre-Forward,Right,175,25000000.0,FR1
+Neymar,Fc Paris Saint Germain,Brazil,Brazil,1992-02-05,Attack,Left Winger,Right,175,75000000.0,FR1
+Lionel Messi,Fc Paris Saint Germain,Argentina,Argentina,1987-06-24,Attack,Right Winger,Left,170,50000000.0,FR1
+Kylian Mbappé,Fc Paris Saint Germain,France,France,1998-12-20,Attack,Centre-Forward,Right,178,180000000.0,FR1
+Marco Verratti,Fc Paris Saint Germain,Italy,Italy,1992-11-05,Midfield,Central Midfield,Right,165,50000000.0,FR1
+Achraf Hakimi,Fc Paris Saint Germain,Morocco,Spain,1998-11-04,Defender,Right-Back,Right,181,70000000.0,FR1
+Nuno Mendes,Fc Paris Saint Germain,Portugal,Portugal,2002-06-19,Defender,Left-Back,Left,176,60000000.0,FR1
+Thilo Kehrer,Fc Paris Saint Germain,Germany,Germany,1996-09-21,Defender,Centre-Back,Right,186,22000000.0,FR1
+Presnel Kimpembe,Fc Paris Saint Germain,France,France,1995-08-13,Defender,Centre-Back,Left,183,40000000.0,FR1
+Marquinhos,Fc Paris Saint Germain,Brazil,Brazil,1994-05-14,Defender,Centre-Back,Right,183,70000000.0,FR1
+Lorenzo Pellegrini,As Rom,Italy,Italy,1996-06-19,Attack,Attacking Midfield,Both,186,45000000.0,IT1
+Tammy Abraham,As Rom,England,England,1997-10-02,Attack,Centre-Forward,Right,194,45000000.0,IT1
+Nicolò Zaniolo,As Rom,Italy,Italy,1999-07-02,Attack,Attacking Midfield,Left,190,30000000.0,IT1
+Roger Ibañez,As Rom,Brazil,Brazil,1998-11-23,Defender,Centre-Back,Right,186,27000000.0,IT1
+Rafael Leão,Ac Mailand,Portugal,Portugal,1999-06-10,Attack,Left Winger,Right,188,85000000.0,IT1
+Franck Kessié,Ac Mailand,Cote d'Ivoire,Cote d'Ivoire,1996-12-19,Midfield,Central Midfield,Right,183,35000000.0,IT1
+Ismaël Bennacer,Ac Mailand,Algeria,France,1997-12-01,Midfield,Defensive Midfield,Left,175,40000000.0,IT1
+Sandro Tonali,Ac Mailand,Italy,Italy,2000-05-08,Midfield,Defensive Midfield,Right,181,50000000.0,IT1
+Theo Hernández,Ac Mailand,France,France,1997-10-06,Defender,Left-Back,Left,184,60000000.0,IT1
+Davide Calabria,Ac Mailand,Italy,Italy,1996-12-06,Defender,Right-Back,Right,176,25000000.0,IT1
+Pierre Kalulu,Ac Mailand,France,France,2000-06-05,Defender,Centre-Back,Right,182,35000000.0,IT1
+Fikayo Tomori,Ac Mailand,England,Canada,1997-12-19,Defender,Centre-Back,Right,185,50000000.0,IT1
+Mike Maignan,Ac Mailand,France,French Guiana,1995-07-03,Goalkeeper,,Right,191,35000000.0,IT1
+Nahuel Molina,Udinese Calcio,Argentina,Argentina,1998-04-06,Defender,Right-Back,Right,175,22000000.0,IT1
+Destiny Udogie,Udinese Calcio,Italy,Italy,2002-11-28,Defender,Left-Back,Left,188,22000000.0,IT1
+Lautaro Martínez,Inter Mailand,Argentina,Argentina,1997-08-22,Attack,Centre-Forward,Right,174,75000000.0,IT1
+Denzel Dumfries,Inter Mailand,Netherlands,Netherlands,1996-04-18,Midfield,Right Midfield,Right,188,28000000.0,IT1
+Hakan Calhanoglu,Inter Mailand,Turkey,Germany,1994-02-08,Midfield,Central Midfield,Right,178,35000000.0,IT1
+Nicolò Barella,Inter Mailand,Italy,Italy,1997-02-07,Midfield,Central Midfield,Right,172,70000000.0,IT1
+Federico Dimarco,Inter Mailand,Italy,Italy,1997-11-10,Defender,Left-Back,Left,175,25000000.0,IT1
+Alessandro Bastoni,Inter Mailand,Italy,Italy,1999-04-13,Defender,Centre-Back,Left,190,55000000.0,IT1
+Milan Skriniar,Inter Mailand,Slovakia,Slovakia,1995-02-11,Defender,Centre-Back,Right,188,60000000.0,IT1
+Giacomo Raspadori,Us Sassuolo,Italy,Italy,2000-02-18,Attack,Second Striker,Both,172,35000000.0,IT1
+Domenico Berardi,Us Sassuolo,Italy,Italy,1994-08-01,Attack,Right Winger,Left,183,23000000.0,IT1
+Hamed Junior Traorè,Us Sassuolo,Cote d'Ivoire,Cote d'Ivoire,2000-02-16,Attack,Attacking Midfield,Both,177,22000000.0,IT1
+Davide Frattesi,Us Sassuolo,Italy,Italy,1999-09-22,Midfield,Central Midfield,Right,184,22000000.0,IT1
+Marcelo Brozovic,Inter Mailand,Croatia,Croatia,1992-11-16,Midfield,Defensive Midfield,Both,181,35000000.0,IT1
+Mario Pasalic,Atalanta Bergamo,Croatia,Germany,1995-02-09,Attack,Attacking Midfield,Right,188,25000000.0,IT1
+Teun Koopmeiners,Atalanta Bergamo,Netherlands,Netherlands,1998-02-28,Midfield,Defensive Midfield,Left,183,30000000.0,IT1
+Gianluca Scamacca,Us Sassuolo,Italy,Italy,1999-01-01,Attack,Centre-Forward,Right,195,30000000.0,IT1
+Merih Demiral,Atalanta Bergamo,Turkey,Turkey,1998-03-05,Defender,Centre-Back,Right,190,25000000.0,IT1
+Ciro Immobile,Lazio Rom,Italy,Italy,1990-02-20,Attack,Centre-Forward,Right,185,23000000.0,IT1
+Mattia Zaccagni,Lazio Rom,Italy,Italy,1995-06-16,Attack,Left Winger,Right,177,22000000.0,IT1
+Sergej Milinković-Savić,Lazio Rom,Serbia,Spain,1995-02-27,Midfield,Central Midfield,Right,191,60000000.0,IT1
+Bremer,Fc Turin,Brazil,Brazil,1997-03-18,Defender,Centre-Back,Right,188,40000000.0,IT1
+Takehiro Tomiyasu,Fc Bologna,Japan,Japan,1998-11-05,Defender,Right-Back,Right,188,25000000.0,IT1
+Álvaro Morata,Juventus Turin,Spain,Spain,1992-10-23,Attack,Centre-Forward,Right,189,25000000.0,IT1
+Dusan Vlahovic,Juventus Turin,Serbia,Yugoslavia (Republic),2000-01-28,Attack,Centre-Forward,Left,190,80000000.0,IT1
+Paulo Dybala,Juventus Turin,Argentina,Argentina,1993-11-15,Attack,Second Striker,Left,177,30000000.0,IT1
+Dejan Kulusevski,Juventus Turin,Sweden,Sweden,2000-04-25,Attack,Right Winger,Left,186,50000000.0,IT1
+Federico Chiesa,Juventus Turin,Italy,Italy,1997-10-25,Attack,Right Winger,Right,175,60000000.0,IT1
+Adrien Rabiot,Juventus Turin,France,France,1995-04-03,Midfield,Central Midfield,Left,188,25000000.0,IT1
+Weston McKennie,Juventus Turin,United States,United States,1998-08-28,Midfield,Central Midfield,Right,185,21000000.0,IT1
+Manuel Locatelli,Juventus Turin,Italy,Italy,1998-01-08,Midfield,Defensive Midfield,Right,185,30000000.0,IT1
+Rodrigo Bentancur,Juventus Turin,Uruguay,Uruguay,1997-06-25,Midfield,Central Midfield,Right,187,40000000.0,IT1
+Matthijs de Ligt,Juventus Turin,Netherlands,Netherlands,1999-08-12,Defender,Centre-Back,Right,189,70000000.0,IT1
+Hirving Lozano,Ssc Neapel,Mexico,Mexico,1995-07-30,Attack,Right Winger,Right,175,28000000.0,IT1
+Piotr Zielinski,Ssc Neapel,Poland,Poland,1994-05-20,Attack,Attacking Midfield,Both,180,40000000.0,IT1
+Stanislav Lobotka,Ssc Neapel,Slovakia,Slovakia,1994-11-25,Midfield,Defensive Midfield,Both,170,30000000.0,IT1
+Frank Anguissa,Ssc Neapel,Cameroon,Cameroon,1995-11-16,Midfield,Defensive Midfield,Right,184,38000000.0,IT1
+Fabián Ruiz,Ssc Neapel,Spain,Spain,1996-04-03,Midfield,Central Midfield,Left,189,45000000.0,IT1
+Giovanni Di Lorenzo,Ssc Neapel,Italy,Italy,1993-08-04,Defender,Right-Back,Right,183,25000000.0,IT1
+Amir Rrahmani,Ssc Neapel,Kosovo,Yugoslavia (Republic),1994-02-24,Defender,Centre-Back,Both,192,25000000.0,IT1
+Kalidou Koulibaly,Ssc Neapel,Senegal,France,1991-06-20,Defender,Centre-Back,Right,186,35000000.0,IT1
+Eljif Elmas,Ssc Neapel,North Macedonia,Macedonia,1999-09-24,Attack,Attacking Midfield,Right,182,23000000.0,IT1
+Nicolás González,Ac Florenz,Argentina,Argentina,1998-04-06,Attack,Left Winger,Left,180,23000000.0,IT1
+Victor Osimhen,Ssc Neapel,Nigeria,Nigeria,1998-12-29,Attack,Centre-Forward,Right,186,70000000.0,IT1
+Sofyan Amrabat,Ac Florenz,Morocco,Netherlands,1996-08-21,Midfield,Defensive Midfield,Right,185,25000000.0,IT1
+Ché Adams,Fc Southampton,Scotland,England,1996-07-13,Attack,Centre-Forward,Right,179,22000000.0,GB1
+Anthony Gordon,Fc Everton,England,England,2001-02-24,Attack,Left Winger,Right,182,40000000.0,GB1
+Richarlison,Fc Everton,Brazil,Brazil,1997-05-10,Attack,Left Winger,Right,184,55000000.0,GB1
+Alex Iwobi,Fc Everton,Nigeria,Nigeria,1996-05-03,Attack,Attacking Midfield,Right,183,25000000.0,GB1
+Lucas Digne,Fc Everton,France,France,1993-07-20,Defender,Left-Back,Left,178,22000000.0,GB1
+Armando Broja,Fc Southampton,Albania,England,2001-09-10,Attack,Centre-Forward,Right,191,30000000.0,GB1
+Ivan Toney,Fc Brentford,England,England,1996-03-16,Attack,Centre-Forward,Right,185,45000000.0,GB1
+Bryan Mbeumo,Fc Brentford,Cameroon,France,1999-08-07,Attack,Right Winger,Left,171,28000000.0,GB1
+Dominic Calvert-Lewin,Fc Everton,England,England,1997-03-16,Attack,Centre-Forward,Right,189,30000000.0,GB1
+Christian Eriksen,Fc Brentford,Denmark,Denmark,1992-02-14,Attack,Attacking Midfield,Right,182,25000000.0,GB1
+Jordan Pickford,Fc Everton,England,England,1994-03-07,Goalkeeper,,Left,185,28000000.0,GB1
+James Ward-Prowse,Fc Southampton,England,England,1994-11-01,Midfield,Central Midfield,Right,177,35000000.0,GB1
+Rico Henry,Fc Brentford,England,England,1997-07-08,Defender,Left-Back,Left,170,22000000.0,GB1
+Kyle Walker-Peters,Fc Southampton,England,England,1997-04-13,Defender,Right-Back,Right,173,25000000.0,GB1
+Tino Livramento,Fc Southampton,England,England,2002-11-12,Defender,Right-Back,Right,173,25000000.0,GB1
+David Raya,Fc Brentford,Spain,Spain,1995-09-15,Goalkeeper,,Right,183,22000000.0,GB1
+Raphinha,Leeds United,Brazil,Brazil,1996-12-14,Attack,Right Winger,Left,176,50000000.0,GB1
+Jack Harrison,Leeds United,England,England,1996-11-20,Attack,Left Winger,Left,175,25000000.0,GB1
+Kalvin Phillips,Leeds United,England,England,1995-12-02,Midfield,Defensive Midfield,Right,179,45000000.0,GB1
+Pedro Neto,Wolverhampton Wanderers,Portugal,Portugal,2000-03-09,Attack,Left Winger,Left,172,32000000.0,GB1
+Morgan Gibbs-White,Wolverhampton Wanderers,England,England,2000-01-27,Attack,Attacking Midfield,Right,178,25000000.0,GB1
+Leander Dendoncker,Wolverhampton Wanderers,Belgium,Belgium,1995-04-15,Midfield,Defensive Midfield,Right,188,22000000.0,GB1
+Rúben Neves,Wolverhampton Wanderers,Portugal,Portugal,1997-03-13,Midfield,Defensive Midfield,Right,180,40000000.0,GB1
+Illan Meslier,Leeds United,France,France,2000-03-02,Goalkeeper,,Left,197,22000000.0,GB1
+Rayan Aït-Nouri,Wolverhampton Wanderers,Algeria,France,2001-06-06,Defender,Left-Back,Left,180,22000000.0,GB1
+Leandro Trossard,Brighton Amp Hove Albion,Belgium,Belgium,1994-12-04,Attack,Left Winger,Right,172,30000000.0,GB1
+Alexis Mac Allister,Brighton Amp Hove Albion,Argentina,Argentina,1998-12-24,Midfield,Central Midfield,Right,174,42000000.0,GB1
+Yves Bissouma,Brighton Amp Hove Albion,Mali,Cote d'Ivoire,1996-08-30,Midfield,Central Midfield,Right,182,32000000.0,GB1
+Moisés Caicedo,Brighton Amp Hove Albion,Ecuador,Ecuador,2001-11-02,Midfield,Central Midfield,Right,178,38000000.0,GB1
+Marc Cucurella,Brighton Amp Hove Albion,Spain,Spain,1998-07-22,Defender,Left-Back,Left,173,55000000.0,GB1
+Robert Sánchez,Brighton Amp Hove Albion,Spain,Spain,1997-11-18,Goalkeeper,,Right,197,32000000.0,GB1
+Eberechi Eze,Crystal Palace,England,England,1998-06-29,Attack,Attacking Midfield,Right,178,30000000.0,GB1
+Wilfried Zaha,Crystal Palace,Cote d'Ivoire,Cote d'Ivoire,1992-11-10,Attack,Left Winger,Right,180,32000000.0,GB1
+Michael Olise,Crystal Palace,France,England,2001-12-12,Midfield,Right Midfield,Left,184,22000000.0,GB1
+Conor Gallagher,Crystal Palace,England,England,2000-02-06,Midfield,Central Midfield,Right,182,32000000.0,GB1
+Joachim Andersen,Crystal Palace,Denmark,Denmark,1996-05-31,Defender,Centre-Back,Right,192,32000000.0,GB1
+Marc Guéhi,Crystal Palace,England,Cote d'Ivoire,2000-07-13,Defender,Centre-Back,Right,182,35000000.0,GB1
+Adam Webster,Brighton Amp Hove Albion,England,England,1995-01-04,Defender,Centre-Back,Right,190,22000000.0,GB1
+Tyrick Mitchell,Crystal Palace,England,England,1999-09-01,Defender,Left-Back,Left,175,28000000.0,GB1
+Ismaïla Sarr,Fc Watford,Senegal,Senegal,1998-02-25,Attack,Right Winger,Right,185,22000000.0,GB1
+Gabriel Jesus,Manchester City,Brazil,Brazil,1997-04-03,Attack,Centre-Forward,Right,175,75000000.0,GB1
+Romelu Lukaku,Fc Chelsea,Belgium,Belgium,1993-05-13,Attack,Centre-Forward,Left,191,55000000.0,GB1
+Timo Werner,Fc Chelsea,Germany,Germany,1996-03-06,Attack,Centre-Forward,Right,180,25000000.0,GB1
+Callum Hudson-Odoi,Fc Chelsea,England,England,2000-11-07,Attack,Left Winger,Right,177,25000000.0,GB1
+Kai Havertz,Fc Chelsea,Germany,Germany,1999-06-11,Attack,Attacking Midfield,Left,190,70000000.0,GB1
+Mason Mount,Fc Chelsea,England,England,1999-01-10,Attack,Attacking Midfield,Right,181,75000000.0,GB1
+Ruben Loftus-Cheek,Fc Chelsea,England,England,1996-01-23,Midfield,Central Midfield,Right,191,25000000.0,GB1
+Christian Pulisic,Fc Chelsea,United States,United States,1998-09-18,Attack,Right Winger,Right,177,38000000.0,GB1
+Mateo Kovacic,Fc Chelsea,Croatia,Austria,1994-05-06,Midfield,Central Midfield,Right,177,40000000.0,GB1
+Jorginho,Fc Chelsea,Italy,Brazil,1991-12-20,Midfield,Defensive Midfield,Right,178,35000000.0,GB1
+Ben Chilwell,Fc Chelsea,England,England,1996-12-21,Defender,Left-Back,Left,180,38000000.0,GB1
+Trevoh Chalobah,Fc Chelsea,England,Sierra Leone,1999-07-05,Defender,Centre-Back,Right,192,22000000.0,GB1
+Kurt Zouma,Fc Chelsea,France,France,1994-10-27,Defender,Centre-Back,Right,190,32000000.0,GB1
+Andreas Christensen,Fc Chelsea,Denmark,Denmark,1996-04-10,Defender,Centre-Back,Right,187,30000000.0,GB1
+Antonio Rüdiger,Fc Chelsea,Germany,Germany,1993-03-03,Defender,Centre-Back,Right,190,40000000.0,GB1
+Reece James,Fc Chelsea,England,England,1999-12-08,Defender,Right-Back,Right,180,70000000.0,GB1
+N'Golo Kanté,Fc Chelsea,France,France,1991-03-29,Midfield,Defensive Midfield,Right,169,30000000.0,GB1
+Edouard Mendy,Fc Chelsea,Senegal,France,1992-03-01,Goalkeeper,,Right,194,25000000.0,GB1
+Riyad Mahrez,Manchester City,Algeria,France,1991-02-21,Attack,Right Winger,Left,179,30000000.0,GB1
+Ferran Torres,Manchester City,Spain,Spain,2000-02-29,Attack,Left Winger,Right,182,35000000.0,GB1
+Bernardo Silva,Manchester City,Portugal,Portugal,1994-08-10,Attack,Attacking Midfield,Left,173,80000000.0,GB1
+Kevin De Bruyne,Manchester City,Belgium,Belgium,1991-06-28,Attack,Attacking Midfield,Right,181,80000000.0,GB1
+Ilkay Gündogan,Manchester City,Germany,Germany,1990-10-24,Midfield,Central Midfield,Right,180,25000000.0,GB1
+Phil Foden,Manchester City,England,England,2000-05-28,Midfield,Central Midfield,Left,171,110000000.0,GB1
+Roméo Lavia,Manchester City,Belgium,Belgium,2004-01-06,Midfield,Defensive Midfield,Right,181,25000000.0,GB1
+João Cancelo,Manchester City,Portugal,Portugal,1994-05-27,Defender,Right-Back,Right,182,70000000.0,GB1
+Jack Grealish,Manchester City,England,England,1995-09-10,Attack,Left Winger,Right,180,70000000.0,GB1
+Oleksandr Zinchenko,Manchester City,Ukraine,Ukraine,1996-12-15,Defender,Left-Back,Left,175,32000000.0,GB1
+Nathan Aké,Manchester City,Netherlands,Netherlands,1995-02-18,Defender,Centre-Back,Left,180,30000000.0,GB1
+John Stones,Manchester City,England,England,1994-05-28,Defender,Centre-Back,Right,188,30000000.0,GB1
+Aymeric Laporte,Manchester City,Spain,France,1994-05-27,Defender,Centre-Back,Left,189,38000000.0,GB1
+Rúben Dias,Manchester City,Portugal,Portugal,1997-05-14,Defender,Centre-Back,Right,187,75000000.0,GB1
+Raheem Sterling,Manchester City,England,Jamaica,1994-12-08,Attack,Left Winger,Right,170,70000000.0,GB1
+Ederson,Manchester City,Brazil,Brazil,1993-08-17,Goalkeeper,,Left,188,45000000.0,GB1
+Ollie Watkins,Aston Villa,England,England,1995-12-30,Attack,Centre-Forward,Right,180,32000000.0,GB1
+Rodri,Manchester City,Spain,Spain,1996-06-22,Midfield,Defensive Midfield,Right,191,80000000.0,GB1
+Emiliano Buendía,Aston Villa,Argentina,Argentina,1996-12-25,Attack,Right Winger,Right,172,28000000.0,GB1
+Leon Bailey,Aston Villa,Jamaica,Jamaica,1997-08-09,Attack,Left Winger,Left,178,25000000.0,GB1
+John McGinn,Aston Villa,Scotland,Scotland,1994-10-18,Midfield,Central Midfield,Left,178,30000000.0,GB1
+Jacob Ramsey,Aston Villa,England,England,2001-05-28,Midfield,Central Midfield,Right,180,28000000.0,GB1
+Matty Cash,Aston Villa,Poland,England,1997-08-07,Defender,Right-Back,Right,185,22000000.0,GB1
+Ezri Konsa,Aston Villa,England,England,1997-10-23,Defender,Centre-Back,Right,183,22000000.0,GB1
+Tyrone Mings,Aston Villa,England,England,1993-03-13,Defender,Centre-Back,Left,196,25000000.0,GB1
+Roberto Firmino,Fc Liverpool,Brazil,Brazil,1991-10-02,Attack,Centre-Forward,Right,181,28000000.0,GB1
+Mohamed Salah,Fc Liverpool,Egypt,Egypt,1992-06-15,Attack,Right Winger,Left,175,80000000.0,GB1
+Diogo Jota,Fc Liverpool,Portugal,Portugal,1996-12-04,Attack,Left Winger,Right,178,55000000.0,GB1
+Douglas Luiz,Aston Villa,Brazil,Brazil,1998-05-09,Midfield,Defensive Midfield,Right,177,35000000.0,GB1
+Harvey Elliott,Fc Liverpool,England,England,2003-04-04,Attack,Attacking Midfield,Left,170,35000000.0,GB1
+Emiliano Martínez,Aston Villa,Argentina,Argentina,1992-09-02,Goalkeeper,,Right,195,28000000.0,GB1
+Curtis Jones,Fc Liverpool,England,England,2001-01-30,Midfield,Central Midfield,Right,185,22000000.0,GB1
+Trent Alexander-Arnold,Fc Liverpool,England,England,1998-10-07,Defender,Right-Back,Right,180,70000000.0,GB1
+Luis Díaz,Fc Liverpool,Colombia,Colombia,1997-01-13,Attack,Left Winger,Right,180,75000000.0,GB1
+Andrew Robertson,Fc Liverpool,Scotland,Scotland,1994-03-11,Defender,Left-Back,Left,178,55000000.0,GB1
+Fabinho,Fc Liverpool,Brazil,Brazil,1993-10-23,Midfield,Defensive Midfield,Right,188,55000000.0,GB1
+Ibrahima Konaté,Fc Liverpool,France,France,1999-05-25,Defender,Centre-Back,Right,194,35000000.0,GB1
+Virgil van Dijk,Fc Liverpool,Netherlands,Netherlands,1991-07-08,Defender,Centre-Back,Right,193,50000000.0,GB1
+Alisson,Fc Liverpool,Brazil,Brazil,1992-10-02,Goalkeeper,,Right,193,50000000.0,GB1
+Joe Gomez,Fc Liverpool,England,England,1997-05-23,Defender,Centre-Back,Right,188,30000000.0,GB1
+Marcus Rashford,Manchester United,England,England,1997-10-31,Attack,Left Winger,Right,185,55000000.0,GB1
+Anthony Elanga,Manchester United,Sweden,Sweden,2002-04-27,Attack,Left Winger,Right,178,25000000.0,GB1
+Jadon Sancho,Manchester United,England,England,2000-03-25,Attack,Left Winger,Right,180,60000000.0,GB1
+Paul Pogba,Manchester United,France,France,1993-03-15,Midfield,Central Midfield,Both,191,35000000.0,GB1
+Sadio Mané,Fc Liverpool,Senegal,Senegal,1992-04-10,Attack,Left Winger,Right,174,60000000.0,GB1
+Luke Shaw,Manchester United,England,England,1995-07-12,Defender,Left-Back,Left,178,28000000.0,GB1
+Harry Maguire,Manchester United,England,England,1993-03-05,Defender,Centre-Back,Right,194,30000000.0,GB1
+Raphaël Varane,Manchester United,France,France,1993-04-25,Defender,Centre-Back,Right,191,40000000.0,GB1
+Scott McTominay,Manchester United,Scotland,England,1996-12-08,Midfield,Defensive Midfield,Right,191,30000000.0,GB1
+Dean Henderson,Manchester United,England,England,1997-03-12,Goalkeeper,,Right,188,22000000.0,GB1
+Bruno Fernandes,Manchester United,Portugal,Portugal,1994-09-08,Attack,Attacking Midfield,Right,179,75000000.0,GB1
+Gabriel Martinelli,Fc Arsenal,Brazil,Brazil,2001-06-18,Attack,Left Winger,Right,178,60000000.0,GB1
+Nicolas Pépé,Fc Arsenal,Cote d'Ivoire,France,1995-05-29,Attack,Right Winger,Left,183,22000000.0,GB1
+Emile Smith Rowe,Fc Arsenal,England,England,2000-07-28,Attack,Attacking Midfield,Right,182,38000000.0,GB1
+Bukayo Saka,Fc Arsenal,England,England,2001-09-05,Midfield,Right Midfield,Left,178,100000000.0,GB1
+Granit Xhaka,Fc Arsenal,Switzerland,Switzerland,1992-09-27,Midfield,Defensive Midfield,Left,186,28000000.0,GB1
+Thomas Partey,Fc Arsenal,Ghana,Ghana,1993-06-13,Midfield,Defensive Midfield,Right,185,38000000.0,GB1
+Kieran Tierney,Fc Arsenal,Scotland,Isle of Man,1997-06-05,Defender,Left-Back,Left,180,30000000.0,GB1
+Gabriel Magalhães,Fc Arsenal,Brazil,Brazil,1997-12-19,Defender,Centre-Back,Left,190,40000000.0,GB1
+Diogo Dalot,Manchester United,Portugal,Portugal,1999-03-18,Defender,Right-Back,Right,183,32000000.0,GB1
+Ben White,Fc Arsenal,England,England,1997-10-08,Defender,Centre-Back,Right,186,45000000.0,GB1
+Aaron Ramsdale,Fc Arsenal,England,England,1998-05-14,Goalkeeper,,Right,190,30000000.0,GB1
+Martin Ødegaard,Fc Arsenal,Norway,Norway,1998-12-17,Attack,Attacking Midfield,Left,178,60000000.0,GB1
+Iñaki Williams,Athletic Bilbao,Ghana,Spain,1994-06-15,Attack,Centre-Forward,Right,186,25000000.0,ES1
+Nico Williams,Athletic Bilbao,Spain,Spain,2002-07-12,Attack,Right Winger,Right,181,25000000.0,ES1
+Harvey Barnes,Leicester City,England,England,1997-12-09,Midfield,Left Midfield,Right,182,32000000.0,GB1
+Boubakary Soumaré,Leicester City,France,France,1999-02-27,Midfield,Defensive Midfield,Right,188,25000000.0,GB1
+Wilfred Ndidi,Leicester City,Nigeria,Nigeria,1996-12-16,Midfield,Defensive Midfield,Right,183,40000000.0,GB1
+James Justin,Leicester City,England,England,1998-02-23,Defender,Right-Back,Right,183,25000000.0,GB1
+Timothy Castagne,Leicester City,Belgium,Belgium,1995-12-05,Defender,Right-Back,Right,185,28000000.0,GB1
+Wesley Fofana,Leicester City,France,France,2000-12-17,Defender,Centre-Back,Right,186,65000000.0,GB1
+Youri Tielemans,Leicester City,Belgium,Belgium,1997-05-07,Midfield,Central Midfield,Right,176,40000000.0,GB1
+Brais Méndez,Celta Vigo,Spain,Spain,1997-01-07,Midfield,Central Midfield,Left,184,30000000.0,ES1
+Unai Simón,Athletic Bilbao,Spain,Spain,1997-06-11,Goalkeeper,,Right,190,25000000.0,ES1
+James Maddison,Leicester City,England,England,1996-11-23,Attack,Attacking Midfield,Right,175,55000000.0,GB1
+Caglar Söyüncü,Leicester City,Turkey,Turkey,1996-05-23,Defender,Centre-Back,Right,187,22000000.0,GB1
+Yunus Musah,Fc Valencia,United States,United States,2002-11-29,Midfield,Central Midfield,Right,178,25000000.0,ES1
+Carlos Soler,Fc Valencia,Spain,Spain,1997-01-02,Midfield,Central Midfield,Right,180,35000000.0,ES1
+Hugo Guillamón,Fc Valencia,Spain,Spain,2000-01-31,Midfield,Defensive Midfield,Right,178,25000000.0,ES1
+Gonçalo Guedes,Fc Valencia,Portugal,Portugal,1996-11-29,Attack,Left Winger,Right,179,32000000.0,ES1
+José Gayà,Fc Valencia,Spain,Spain,1995-05-25,Defender,Left-Back,Left,172,40000000.0,ES1
+Giorgi Mamardashvili,Fc Valencia,Georgia,Georgia,2000-09-29,Goalkeeper,,Left,197,25000000.0,ES1
+Diego Carlos,Fc Sevilla,Brazil,Brazil,1993-03-15,Defender,Centre-Back,Right,185,30000000.0,ES1
+Jules Koundé,Fc Sevilla,France,France,1998-11-12,Defender,Centre-Back,Right,180,60000000.0,ES1
+Enes Ünal,Fc Getafe,Turkey,Turkey,1997-05-10,Attack,Centre-Forward,Right,187,25000000.0,ES1
+Joelinton,Newcastle United,Brazil,Brazil,1996-08-14,Attack,Attacking Midfield,Right,186,32000000.0,GB1
+Allan Saint-Maximin,Newcastle United,France,France,1997-03-12,Attack,Left Winger,Right,173,40000000.0,GB1
+Joe Willock,Newcastle United,England,England,1999-08-20,Midfield,Central Midfield,Right,186,30000000.0,GB1
+Bruno Guimarães,Newcastle United,Brazil,Brazil,1997-11-16,Midfield,Defensive Midfield,Right,182,60000000.0,GB1
+Sean Longstaff,Newcastle United,England,England,1997-10-30,Midfield,Central Midfield,Right,181,22000000.0,GB1
+Harry Kane,Tottenham Hotspur,England,England,1993-07-28,Attack,Centre-Forward,Right,188,90000000.0,GB1
+João Félix,Atletico Madrid,Portugal,Portugal,1999-11-10,Attack,Second Striker,Both,181,50000000.0,ES1
+Ángel Correa,Atletico Madrid,Argentina,Argentina,1995-03-09,Attack,Right Winger,Right,171,40000000.0,ES1
+Yannick Carrasco,Atletico Madrid,Belgium,Belgium,1993-09-04,Attack,Left Winger,Right,181,30000000.0,ES1
+Thomas Lemar,Atletico Madrid,France,Guadeloupe,1995-11-12,Attack,Attacking Midfield,Left,171,30000000.0,ES1
+Rodrigo de Paul,Atletico Madrid,Argentina,Argentina,1994-05-24,Midfield,Central Midfield,Right,180,40000000.0,ES1
+Reinildo Mandava,Atletico Madrid,Mozambique,Mozambique,1994-01-21,Defender,Left-Back,Left,180,25000000.0,ES1
+Jan Oblak,Atletico Madrid,Slovenia,Slovenia,1993-01-07,Goalkeeper,,Right,188,40000000.0,ES1
+José María Giménez,Atletico Madrid,Uruguay,Uruguay,1995-01-20,Defender,Centre-Back,Right,185,40000000.0,ES1
+Marcos Llorente,Atletico Madrid,Spain,Spain,1995-01-30,Midfield,Central Midfield,Right,184,35000000.0,ES1
+Jarrod Bowen,West Ham United,England,England,1996-12-20,Attack,Right Winger,Left,182,42000000.0,GB1
+Pablo Fornals,West Ham United,Spain,Spain,1996-02-22,Attack,Attacking Midfield,Right,178,25000000.0,GB1
+Saïd Benrahma,West Ham United,Algeria,Algeria,1995-08-10,Attack,Left Winger,Right,172,22000000.0,GB1
+Tomas Soucek,West Ham United,Czech Republic,Czech Republic,1995-02-27,Midfield,Defensive Midfield,Right,192,45000000.0,GB1
+Declan Rice,West Ham United,England,England,1999-01-14,Midfield,Defensive Midfield,Right,188,80000000.0,GB1
+Karim Benzema,Real Madrid,France,France,1987-12-19,Attack,Centre-Forward,Right,185,35000000.0,ES1
+Marco Asensio,Real Madrid,Spain,Spain,1996-01-21,Attack,Right Winger,Left,182,25000000.0,ES1
+Rodrygo,Real Madrid,Brazil,Brazil,2001-01-09,Attack,Right Winger,Right,174,80000000.0,ES1
+Eduardo Camavinga,Real Madrid,France,Angola,2002-11-10,Midfield,Central Midfield,Left,182,50000000.0,ES1
+Federico Valverde,Real Madrid,Uruguay,Uruguay,1998-07-22,Midfield,Central Midfield,Right,182,100000000.0,ES1
+Casemiro,Real Madrid,Brazil,Brazil,1992-02-23,Midfield,Defensive Midfield,Right,185,50000000.0,ES1
+Vinicius Junior,Real Madrid,Brazil,Brazil,2000-07-12,Attack,Left Winger,Right,176,120000000.0,ES1
+Ferland Mendy,Real Madrid,France,France,1995-06-08,Defender,Left-Back,Left,180,40000000.0,ES1
+David Alaba,Real Madrid,Austria,Austria,1992-06-24,Defender,Centre-Back,Left,180,55000000.0,ES1
+Éder Militão,Real Madrid,Brazil,Brazil,1998-01-18,Defender,Centre-Back,Right,186,60000000.0,ES1
+Thibaut Courtois,Real Madrid,Belgium,Belgium,1992-05-11,Goalkeeper,,Left,200,60000000.0,ES1
+Antoine Griezmann,Fc Barcelona,France,France,1991-03-21,Attack,Second Striker,Left,176,25000000.0,ES1
+Ousmane Dembélé,Fc Barcelona,France,France,1997-05-15,Attack,Right Winger,Both,178,60000000.0,ES1
+Ansu Fati,Fc Barcelona,Spain,Guinea-Bissau,2002-10-31,Attack,Left Winger,Right,178,50000000.0,ES1
+Gavi,Fc Barcelona,Spain,Spain,2004-08-05,Midfield,Central Midfield,Right,173,90000000.0,ES1
+Frenkie de Jong,Fc Barcelona,Netherlands,Netherlands,1997-05-12,Midfield,Central Midfield,Right,181,50000000.0,ES1
+Pedri,Fc Barcelona,Spain,Spain,2002-11-25,Midfield,Central Midfield,Right,174,100000000.0,ES1
+Ronald Araújo,Fc Barcelona,Uruguay,Uruguay,1999-03-07,Defender,Centre-Back,Right,188,60000000.0,ES1
+Marc-André ter Stegen,Fc Barcelona,Germany,Germany,1992-04-30,Goalkeeper,,Right,187,30000000.0,ES1
+Steven Bergwijn,Tottenham Hotspur,Netherlands,Netherlands,1997-10-08,Attack,Left Winger,Right,178,27000000.0,GB1
+Heung-min Son,Tottenham Hotspur,"Korea, South","Korea, South",1992-07-08,Attack,Left Winger,Both,184,70000000.0,GB1
+Ryan Sessegnon,Tottenham Hotspur,England,England,2000-05-18,Midfield,Left Midfield,Left,178,22000000.0,GB1
+Giovani Lo Celso,Tottenham Hotspur,Argentina,Argentina,1996-04-09,Midfield,Central Midfield,Left,177,22000000.0,GB1
+Tanguy Ndombélé,Tottenham Hotspur,France,France,1996-12-28,Midfield,Central Midfield,Right,181,28000000.0,GB1
+Pierre-Emile Höjbjerg,Tottenham Hotspur,Denmark,Denmark,1995-08-05,Midfield,Central Midfield,Right,185,45000000.0,GB1
+Emerson Royal,Tottenham Hotspur,Brazil,Brazil,1999-01-14,Defender,Right-Back,Right,183,30000000.0,GB1
+Eric Dier,Tottenham Hotspur,England,England,1994-01-15,Defender,Centre-Back,Right,188,30000000.0,GB1
+Davinson Sánchez,Tottenham Hotspur,Colombia,Colombia,1996-06-12,Defender,Centre-Back,Right,187,25000000.0,GB1
+Cristian Romero,Tottenham Hotspur,Argentina,Argentina,1998-04-27,Defender,Centre-Back,Right,185,60000000.0,GB1
+Mikel Oyarzabal,Real Sociedad San Sebastian,Spain,Spain,1997-04-21,Attack,Left Winger,Left,181,60000000.0,ES1
+Mikel Merino,Real Sociedad San Sebastian,Spain,Spain,1996-06-22,Midfield,Central Midfield,Left,189,50000000.0,ES1
+Alexander Isak,Real Sociedad San Sebastian,Sweden,Sweden,1999-09-21,Attack,Centre-Forward,Right,192,50000000.0,ES1
+Martín Zubimendi,Real Sociedad San Sebastian,Spain,Spain,1999-02-02,Midfield,Defensive Midfield,Right,181,40000000.0,ES1
+Robin Le Normand,Real Sociedad San Sebastian,France,France,1996-11-11,Defender,Centre-Back,Right,187,35000000.0,ES1
+Álex Remiro,Real Sociedad San Sebastian,Spain,Spain,1995-03-24,Goalkeeper,,Right,191,25000000.0,ES1
+André Silva,Rasenballsport Leipzig,Portugal,Portugal,1995-11-06,Attack,Centre-Forward,Right,185,24000000.0,L1
+Christopher Nkunku,Rasenballsport Leipzig,France,France,1997-11-14,Attack,Second Striker,Right,178,80000000.0,L1
+Robert Lewandowski,Fc Bayern Munchen,Poland,Poland,1988-08-21,Attack,Centre-Forward,Right,185,45000000.0,L1
+Kingsley Coman,Fc Bayern Munchen,France,France,1996-06-13,Attack,Right Winger,Right,180,60000000.0,L1
+Leroy Sané,Fc Bayern Munchen,Germany,Germany,1996-01-11,Attack,Left Winger,Left,183,70000000.0,L1
+Joshua Kimmich,Fc Bayern Munchen,Germany,Germany,1995-02-08,Midfield,Defensive Midfield,Right,177,80000000.0,L1
+Benjamin Pavard,Fc Bayern Munchen,France,France,1996-03-28,Defender,Right-Back,Right,186,35000000.0,L1
+Alphonso Davies,Fc Bayern Munchen,Canada,Ghana,2000-11-02,Defender,Left-Back,Left,185,70000000.0,L1
+Niklas Süle,Fc Bayern Munchen,Germany,Germany,1995-09-03,Defender,Centre-Back,Right,195,35000000.0,L1
+Dayot Upamecano,Fc Bayern Munchen,France,France,1998-10-27,Defender,Centre-Back,Right,186,60000000.0,L1
+Lucas Hernández,Fc Bayern Munchen,France,France,1996-02-14,Defender,Centre-Back,Left,184,50000000.0,L1
+Dominik Szoboszlai,Rasenballsport Leipzig,Hungary,Hungary,2000-10-25,Attack,Attacking Midfield,Right,187,35000000.0,L1
+Dani Olmo,Rasenballsport Leipzig,Spain,Spain,1998-05-07,Attack,Attacking Midfield,Right,179,40000000.0,L1
+Serge Gnabry,Fc Bayern Munchen,Germany,Germany,1995-07-14,Attack,Right Winger,Right,176,65000000.0,L1
+Konrad Laimer,Rasenballsport Leipzig,Austria,Austria,1997-05-27,Midfield,Central Midfield,Right,180,28000000.0,L1
+Leon Goretzka,Fc Bayern Munchen,Germany,Germany,1995-02-06,Midfield,Central Midfield,Right,189,65000000.0,L1
+Josko Gvardiol,Rasenballsport Leipzig,Croatia,Croatia,2002-01-23,Defender,Centre-Back,Left,185,75000000.0,L1
+Mohamed Simakan,Rasenballsport Leipzig,France,France,2000-05-03,Defender,Centre-Back,Right,187,28000000.0,L1
+Jamal Musiala,Fc Bayern Munchen,Germany,Germany,2003-02-26,Attack,Attacking Midfield,Right,184,100000000.0,L1
+Xaver Schlager,Vfl Wolfsburg,Austria,Austria,1997-09-28,Midfield,Central Midfield,Left,174,22000000.0,L1
+Gerard Moreno,Fc Villarreal,Spain,Spain,1992-04-07,Attack,Centre-Forward,Left,180,35000000.0,ES1
+Arnaut Danjuma,Fc Villarreal,Netherlands,Nigeria,1997-01-31,Attack,Centre-Forward,Right,178,35000000.0,ES1
+Yéremy Pino,Fc Villarreal,Spain,Spain,2002-10-20,Attack,Right Winger,Right,172,38000000.0,ES1
+Juan Foyth,Fc Villarreal,Argentina,Argentina,1998-01-12,Defender,Right-Back,Right,187,25000000.0,ES1
+Pau Torres,Fc Villarreal,Spain,Spain,1997-01-16,Defender,Centre-Back,Left,191,50000000.0,ES1
+Filip Kostić,Eintracht Frankfurt,Serbia,Yugoslavia (Republic),1992-11-01,Midfield,Left Midfield,Left,184,24000000.0,L1
+Jesper Lindström,Eintracht Frankfurt,Denmark,Denmark,2000-02-29,Attack,Attacking Midfield,Right,182,28000000.0,L1
+Djibril Sow,Eintracht Frankfurt,Switzerland,Switzerland,1997-02-06,Midfield,Central Midfield,Right,184,22000000.0,L1
+Evan Ndicka,Eintracht Frankfurt,France,France,1999-08-20,Defender,Centre-Back,Left,192,32000000.0,L1
+Daichi Kamada,Eintracht Frankfurt,Japan,Japan,1996-08-05,Attack,Attacking Midfield,Right,184,30000000.0,L1
+Nico Schlotterbeck,Sc Freiburg,Germany,Germany,1999-12-01,Defender,Centre-Back,Left,191,33000000.0,L1
+Manu Koné,Borussia Monchengladbach,France,France,2001-05-17,Midfield,Central Midfield,Right,185,25000000.0,L1
+Marcus Thuram,Borussia Monchengladbach,France,Italy,1997-08-06,Attack,Centre-Forward,Right,192,32000000.0,L1
+David Raum,Tsg 1899 Hoffenheim,Germany,Germany,1998-04-22,Defender,Left-Back,Left,180,26000000.0,L1
+Youssoufa Moukoko,Borussia Dortmund,Germany,Cameroon,2004-11-20,Attack,Centre-Forward,Left,179,30000000.0,L1
+Erling Haaland,Borussia Dortmund,Norway,England,2000-07-21,Attack,Centre-Forward,Left,195,170000000.0,L1
+Julian Brandt,Borussia Dortmund,Germany,Germany,1996-05-02,Attack,Attacking Midfield,Right,185,28000000.0,L1
+Giovanni Reyna,Borussia Dortmund,United States,England,2002-11-13,Attack,Attacking Midfield,Right,185,35000000.0,L1
+Manuel Akanji,Borussia Dortmund,Switzerland,Switzerland,1995-07-19,Defender,Centre-Back,Right,188,30000000.0,L1
+Gregor Kobel,Borussia Dortmund,Switzerland,Switzerland,1997-12-06,Goalkeeper,,Right,194,25000000.0,L1
+Jude Bellingham,Borussia Dortmund,England,England,2003-06-29,Midfield,Central Midfield,Right,186,110000000.0,L1
+Borja Iglesias,Real Betis Sevilla,Spain,Spain,1993-01-17,Attack,Centre-Forward,Right,187,25000000.0,ES1
+Nabil Fekir,Real Betis Sevilla,France,France,1993-07-18,Attack,Attacking Midfield,Left,173,40000000.0,ES1
+Guido Rodríguez,Real Betis Sevilla,Argentina,Argentina,1994-04-12,Midfield,Defensive Midfield,Right,185,28000000.0,ES1
+Patrik Schick,Bayer 04 Leverkusen,Czech Republic,Czech Republic,1996-01-24,Attack,Centre-Forward,Left,191,38000000.0,L1
+Moussa Diaby,Bayer 04 Leverkusen,France,France,1999-07-07,Attack,Left Winger,Left,170,50000000.0,L1
+Florian Wirtz,Bayer 04 Leverkusen,Germany,Germany,2003-05-03,Attack,Attacking Midfield,Right,176,70000000.0,L1
+Jeremie Frimpong,Bayer 04 Leverkusen,Netherlands,Netherlands,2000-12-10,Defender,Right-Back,Right,171,25000000.0,L1
+Piero Hincapié,Bayer 04 Leverkusen,Ecuador,Ecuador,2002-01-09,Defender,Centre-Back,Left,183,25000000.0,L1
+Edmond Tapsoba,Bayer 04 Leverkusen,Burkina Faso,Burkina Faso,1999-02-02,Defender,Centre-Back,Right,194,30000000.0,L1
+Jonathan David,Losc Lille,Canada,United States,2000-01-14,Attack,Centre-Forward,Both,177,45000000.0,FR1
+Renato Sanches,Losc Lille,Portugal,Portugal,1997-08-18,Midfield,Central Midfield,Right,176,25000000.0,FR1
+Amadou Onana,Losc Lille,Belgium,Senegal,2001-08-16,Midfield,Defensive Midfield,Right,195,35000000.0,FR1
+Sven Botman,Losc Lille,Netherlands,Netherlands,2000-01-12,Defender,Centre-Back,Left,195,38000000.0,FR1
+Hugo Ekitiké,Stade Reims,France,France,2002-06-20,Attack,Centre-Forward,Right,189,25000000.0,FR1
+Lovro Majer,Fc Stade Rennes,Croatia,Croatia,1998-01-17,Attack,Attacking Midfield,Left,178,22000000.0,FR1
+Martin Terrier,Fc Stade Rennes,France,France,1997-03-04,Attack,Left Winger,Right,184,35000000.0,FR1
+Amine Gouiri,Ogc Nizza,France,France,2000-02-16,Attack,Centre-Forward,Right,181,38000000.0,FR1
+Khéphren Thuram,Ogc Nizza,France,Italy,2001-03-26,Midfield,Defensive Midfield,Right,192,25000000.0,FR1
+Nayef Aguerd,Fc Stade Rennes,Morocco,Morocco,1996-03-30,Defender,Centre-Back,Left,188,25000000.0,FR1
+Lucas Paquetá,Olympique Lyon,Brazil,Brazil,1997-08-27,Attack,Attacking Midfield,Left,180,45000000.0,FR1
+Maxence Caqueret,Olympique Lyon,France,France,2000-02-15,Midfield,Central Midfield,Right,174,25000000.0,FR1
+Seko Fofana,Rc Lens,Cote d'Ivoire,France,1995-05-07,Midfield,Central Midfield,Right,185,30000000.0,FR1
+Cheick Doucouré,Rc Lens,Mali,Mali,2000-01-08,Midfield,Defensive Midfield,Right,180,30000000.0,FR1
+Aleksandr Golovin,As Monaco,Russia,Russia,1996-05-30,Attack,Attacking Midfield,Right,178,22000000.0,FR1
+Youssouf Fofana,As Monaco,France,France,1999-01-10,Midfield,Central Midfield,Right,185,25000000.0,FR1
+Aurélien Tchouameni,As Monaco,France,France,2000-01-27,Midfield,Defensive Midfield,Right,187,90000000.0,FR1
+Axel Disasi,As Monaco,France,France,1998-03-11,Defender,Centre-Back,Right,190,25000000.0,FR1
+Benoît Badiashile,As Monaco,France,France,2001-03-26,Defender,Centre-Back,Left,194,40000000.0,FR1
+Mattéo Guendouzi,Olympique Marseille,France,France,1999-04-14,Midfield,Central Midfield,Right,185,25000000.0,FR1
+Boubacar Kamara,Olympique Marseille,France,France,1999-11-23,Midfield,Defensive Midfield,Right,184,25000000.0,FR1
+William Saliba,Olympique Marseille,France,France,2001-03-24,Defender,Centre-Back,Right,192,50000000.0,FR1
+Randal Kolo Muani,Fc Nantes,France,France,1998-12-05,Attack,Centre-Forward,Right,187,37000000.0,FR1
