@@ -1,47 +1,60 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <string.h>
+#include <time.h>
 
-#define MAX_CHAR 1024
-
-int main(int argc, char* argv[]) {
-  char chaine[MAX_CHAR], tmp[MAX_CHAR];
-  FILE* fichier = NULL;
-  FILE* fichier2 = NULL;
-  int i, aleat;
-
-  if (argc < 3) {
-    printf("Usage : %s fichierEntree fichierSortie\n", argv[0]);
-    return 1;
+int numOfLIne(char* c) {
+  int count = 0;
+  FILE* f = fopen(c, "r");
+  if (f == NULL) {
+    perror("erreur lors de l'ouverture du fichier\n");
   }
-
-  fichier = fopen(argv[1], "r");
-  fichier2 = fopen(argv[2], "w");
-
-  if (fichier == NULL) {
-    printf("Impossible d'ouvrir le fichier %s\n", argv[1]);
-    return 1;
+  while (fgetc(f) != EOF) {
+    { count++; }
   }
-  if (fichier2 == NULL) {
-    printf("Impossible de creer le fichier %s\n", argv[2]);
-    return 1;
+  return count;
+}
+
+int nombreRandom(int n) {
+  int nombre;
+  srand(time(NULL));
+  nombre = rand() % (n + 1);
+  return nombre;
+}
+
+void swapLines(char* fileName, int line1, int line2) {
+  FILE* file1;
+
+  // Ouverture du fichier
+  file1 = fopen(fileName, "r");
+
+  // Déclaration des variables
+  char line1Data[100], line2Data[100];
+  int i;
+
+  // Déplacement du curseur
+  for (i = 1; i < line1; i++)
+    fgets(line1Data, 100, file1);
+  for (i = 1; i < line2; i++)
+    fgets(line2Data, 100, file1);
+  fclose(file1);
+
+  // Ouverture du fichier
+  file1 = fopen(fileName, "w");
+
+  // Déplacement du curseur
+  for (i = 1; i < line1; i++)
+    fprintf(file1, "%s", line2Data);
+  for (i = 1; i < line2; i++)
+    fprintf(file1, "%s", line1Data);
+  fclose(file1);
+}
+
+int main() {
+  // je swap aléatoirement 70 lignes
+  for (int i = 0; i < 70; i++) {
+    int l1 = nombreRandom(numOfLIne("question.txt"));
+    int l2 = nombreRandom(numOfLIne("question.txt"));
+    swapLines("question.txt", l1, l2);
   }
-
-  while (fgets(chaine, MAX_CHAR, fichier) != NULL) {
-    strcpy(tmp, chaine);
-    aleat = rand() % 2;
-    if (aleat == 0) {
-      fputs(chaine, fichier2);
-    } else if (aleat == 1) {
-      for (i = strlen(tmp) - 1; i >= 0; i--) {
-        chaine[strlen(tmp) - 1 - i] = tmp[i];
-      }
-      fputs(chaine, fichier2);
-    }
-  }
-
-  fclose(fichier);
-  fclose(fichier2);
-
   return 0;
 }
