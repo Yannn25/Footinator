@@ -2,22 +2,26 @@
 #include <stdlib.h>
 #include <time.h>
 
-int numOfLIne(char* c) {
+int numOfLIne(char* fi) {
   int count = 0;
-  FILE* f = fopen(c, "r");
+  char c;
+  FILE* f = fopen(fi, "r");
   if (f == NULL) {
     perror("erreur lors de l'ouverture du fichier\n");
   }
-  while (fgetc(f) != EOF) {
-    { count++; }
+  while ((c = getc(f)) != EOF) {
+    if (c == '\n') {
+      count++;
+    }
   }
+  fclose(f);
   return count;
 }
 
 int nombreRandom(int n) {
   int nombre;
-  srand(time(NULL));
   nombre = rand() % (n + 1);
+  srand(time(NULL));
   return nombre;
 }
 
@@ -51,10 +55,15 @@ void swapLines(char* fileName, int line1, int line2) {
 
 int main() {
   // je swap aléatoirement 70 lignes
-  for (int i = 0; i < 70; i++) {
+  /*for (int i = 0; i < 2; i++) {
     int l1 = nombreRandom(numOfLIne("question.txt"));
     int l2 = nombreRandom(numOfLIne("question.txt"));
     swapLines("question.txt", l1, l2);
-  }
+  }*/
+  int l1 = nombreRandom(numOfLIne("question.txt"));
+  int l2 = nombreRandom(numOfLIne("question.txt"));
+  swapLines("question.txt", l1, l2);
+  printf(" numofline = %d l1 = %d l2= %d\n", numOfLIne("question.txt"), l1, l2);
+
   return 0;
 }
