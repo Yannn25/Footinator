@@ -163,7 +163,6 @@ def chatbot():
 
         if user_input == "aide" or user_input == "":
             print_help()
-            #continue
             user_input: str = input("-> ").lower()
         if user_input == 'quit' or user_input == 'quitter':
             print("\033[0;31mAu revoir !")
@@ -171,14 +170,12 @@ def chatbot():
         if user_input == 'passer' or user_input == 'je ne sais pas':
             continue
         if critere == "age" or critere == "taille" :
-            #index: str = keep_digits_only(user_input)
             filter = {critere : keep_digits_only(user_input)}
             print(filter)
             if len(filterdplayers) == 0:                   
                 filterdplayers = filter_in_range(players, filter)
             else :
                 filterdplayers = filter_in_range(filterdplayers, filter)
-            print(filterdplayers)
             continue
             
         best_match: str | None = find_best_match(user_input, [q["reponse"] for q in knowledge_base["formatage"]])
@@ -186,7 +183,6 @@ def chatbot():
         if best_match:
             format: str = get_format_for_reponse(best_match, knowledge_base)
             filter = {critere : format}
-            print(filter)
             if len(filterdplayers) == 0:                   
                 filterdplayers = filter_players(players, filter)
             else :
@@ -205,20 +201,17 @@ def chatbot():
                 save_knowledge_base('knowledge_base.json', knowledge_base)
                 #answer: str = get_answer_for_question(new_answer, knowledge_base)
                 filter = {critere : new_answer}
-                print(filter)
                 if len(filterdplayers) == 0:
                     filterdplayers = filter_players(players, filter)
                 else :
                     filterdplayers = filter_players(filterdplayers, filter)
                 print("\033[0;35mBot: Merci pour votre aide précieuse ! Vous contribuez à mon amélioration :-)\033[0m")
-        print(filterdplayers)
         
         if len(filterdplayers) < 4:
             flag: bool = False
             while len(filterdplayers) > 0:
                 print(f"\033[0;35mBot: Le joueur auquel vous pensez est-il {filterdplayers[0]['nom']} ? (oui/non)\033[0m")
                 user_input: str = input("-> ").lower()
-                
                 if user_input == "oui":
                     flag = True
                     break

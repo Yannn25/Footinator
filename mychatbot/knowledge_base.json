@@ -63,11 +63,23 @@
       "format": "Defender"
     },
     {
+      "reponse": "arriere",
+      "format": "Defender"
+    },
+    {
+      "reponse": "lateral",
+      "format": "Defender"
+    },
+    {
       "reponse": "milieu",
       "format": "Midfield"
     },
     {
       "reponse": "attaquant",
+      "format": "Attack"
+    },
+    {
+      "reponse": "aillier",
       "format": "Attack"
     },
     {
@@ -97,6 +109,10 @@
     {
       "reponse": "ligue 1",
       "format": "FR1"
+    },
+    {
+      "reponse" : "bundesliga",
+      "format" : "L1"
     },
     {
       "reponse": "droit",
@@ -131,6 +147,18 @@
       "format": "Portugal"
     },
     {
+      "reponse": "pays-bas",
+      "format": "Netherlands"
+    },
+    {
+      "reponse": "belgique",
+      "format": "Belgium"
+    }
+    {
+      "reponse": "hollandais",
+      "format": "Netherlands"
+    },
+    {
       "reponse": "en anglettere",
       "format": "GB1"
     },
@@ -145,6 +173,14 @@
     {
       "reponse": "cote d'ivoire",
       "format": "Cote d'Ivoire"
+    },
+    {
+      "reponse": "Maroc",
+      "format": "Morocco"
+    },
+    {
+      "reponse": "au senegal",
+      "format": "Senegal"
     },
     {
       "reponse": "mali",
@@ -188,7 +224,7 @@
     },
     {
       "reponse": "liga",
-      "format": "Spain"
+      "format": "ES1"
     },
     {
       "reponse": "en france",
@@ -213,6 +249,18 @@
     {
       "reponse": "norvegienne",
       "format": "Norway"
-    }
+    }, 
+    {
+      "reponse": "en espagne",
+      "format": "Spain"
+    }, 
+    {
+      "reponse": "en espagne",
+      "format": "England"
+    }, 
+    {
+      "reponse": "australie",
+      "format": "Australia"
+    }, 
   ]
 }
