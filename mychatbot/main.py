@@ -51,7 +51,7 @@ def get_answer_for_question(question: str, knowledge_base: dict) -> str | None:
 
 def read_players_data():
     players = []
-    with open('data/final_players.csv', newline='') as csvfile:
+    with open('../data/final_players.csv', newline='') as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
             player = {
@@ -70,6 +70,24 @@ def read_players_data():
             players.append(player)
     
     return players
+def filter_players(players, filters):
+    """
+    Filter the list of players based on the given filters.
+    :param players: The list of players.
+    :param filters: A dictionary containing the filters.
+    :return: The filtered list of players.
+    """
+    filtered_players = []
+    for player in players:
+        match = True
+        for attribute, value in filters.items():
+            if value != '' and player[attribute] != value:
+                match = False
+                break
+        if match:
+            filtered_players.append(player)
+    return filtered_players
+
 
 # Main function to handle user input and respond
 def chatbot():
@@ -84,6 +102,8 @@ def chatbot():
     6. Exit the chatbot when the user types 'quit'.
     """
     knowledge_base: dict = load_knowledge_base('knowledge_base.json')
+    players = read_players_data()
+    filtredplayers = []
 
     while True:
         user_input: str = input("You: ")
