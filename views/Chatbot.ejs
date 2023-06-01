@@ -14,18 +14,25 @@
 				<h1>Footinator</h1>
 			</div>
 			<div class="card-body text-center">
-				<p>Pensez à un joueur de football et je vais essayer de le deviner!</p>
-				<form action="/" method="post">
-					<% if (showButtons) { %>
+				<% if (showButtons) { %>
+					<p>
+						<%= question%>
+					</p>
+					<form action="/" method="post">
 						<div class="d-flex justify-content-center">
 							<button type="submit" name="reponse" value="oui" class="btn btn-primary">Oui</button>
 							<button type="submit" name="reponse" value="non" class="btn btn-primary">Non</button>
 						</div>
-						<% } else { %>
+					</form>
+					<% } else { %>
+						<p>
+							Pensez à un joueur de football et je vais essayer de le deviner!
+						</p>
+						<form action="/" method="post">
 							<button type="submit" name="commencer" value="commencer"
 								class="btn btn-primary">Commencer</button>
-							<% } %>
-				</form>
+						</form>
+						<% } %>
 			</div>
 		</div>
 	</div>
