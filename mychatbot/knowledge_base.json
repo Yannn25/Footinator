@@ -1,0 +1,266 @@
+{
+  "interactions": [
+    {
+      "question": "Quelle est la nationalite de votre joueur ?",
+      "critere": "nationalite"
+    },
+    {
+      "question": "Quelle est la citoyennet\u00e9 de votre joueur ?",
+      "critere": "nationalite"
+    },
+    {
+      "question": "Votre joueur a environ quel age ?",
+      "critere": "age"
+    },
+    {
+      "question": "Quel est l'\u00e2ge approximatif de votre joueur ?",
+      "critere": "age"
+    },
+    {
+      "question": "De quel pied votre joueur joue t-il ?",
+      "critere": "pied"
+    },
+    {
+      "question": "Quel est le pied pr\u00e9f\u00e9r\u00e9 de votre joueur ?",
+      "critere": "pied"
+    },
+    {
+      "question": "Quelle est la taille approximative de votre joueur ?",
+      "critere": "taille"
+    },
+    {
+      "question": "\u00c0 peu pr\u00e8s combien mesure votre joueur en taille ?",
+      "critere": "taille"
+    },
+    {
+      "question": "Dans quel championnat \u00e9volue votre joueur ?",
+      "critere": "championnat"
+    },
+    {
+      "question": "Dans quelle comp\u00e9tition nationale joue votre joueur ?",
+      "critere": "championnat"
+    },
+    {
+      "question": "Quel est le poste du joueur ?",
+      "critere": "poste"
+    },
+    {
+      "question": "Quelle est la position du joueur ?",
+      "critere": "poste"
+    },
+    {
+      "question": "Quel est le pays de naissance de votre joueur ?",
+      "critere": "pays_naissance"
+    },
+    {
+      "question": "Dans quel pays est n\u00e9 votre joueur ?",
+      "critere": "pays_naissance"
+    }
+  ],
+  "formatage": [
+    {
+      "reponse": "defenseur",
+      "format": "Defender"
+    },
+    {
+      "reponse": "arriere",
+      "format": "Defender"
+    },
+    {
+      "reponse": "lateral",
+      "format": "Defender"
+    },
+    {
+      "reponse": "milieu",
+      "format": "Midfield"
+    },
+    {
+      "reponse": "attaquant",
+      "format": "Attack"
+    },
+    {
+      "reponse": "aillier",
+      "format": "Attack"
+    },
+    {
+      "reponse": "france",
+      "format": "France"
+    },
+    {
+      "reponse": "la france",
+      "format": "France"
+    },
+    {
+      "reponse": "Francaise",
+      "format": "France"
+    },
+    {
+      "reponse": "Ligue1",
+      "format": "FR1"
+    },
+    {
+      "reponse": "D1",
+      "format": "FR1"
+    },
+    {
+      "reponse": "gauche",
+      "format": "Left"
+    },
+    {
+      "reponse": "ligue 1",
+      "format": "FR1"
+    },
+    {
+      "reponse" : "bundesliga",
+      "format" : "L1"
+    },
+    {
+      "reponse": "droit",
+      "format": "Right"
+    },
+    {
+      "reponse": "buteur",
+      "format": "Attack"
+    },
+    {
+      "reponse": "buteur",
+      "format": "Attack"
+    },
+    {
+      "reponse": "gauche",
+      "format": "Left"
+    },
+    {
+      "reponse": "c'est un gaucher",
+      "format": "Left"
+    },
+    {
+      "reponse": "c'est un droitier",
+      "format": "Right"
+    },
+    {
+      "reponse": "br\u00e9sil",
+      "format": "Brazil"
+    },
+    {
+      "reponse": "portugal",
+      "format": "Portugal"
+    },
+    {
+      "reponse": "pays-bas",
+      "format": "Netherlands"
+    },
+    {
+      "reponse": "belgique",
+      "format": "Belgium"
+    }
+    {
+      "reponse": "hollandais",
+      "format": "Netherlands"
+    },
+    {
+      "reponse": "en anglettere",
+      "format": "GB1"
+    },
+    {
+      "reponse": "arriere",
+      "format": "Defender"
+    },
+    {
+      "reponse": "stoppeur",
+      "format": "Defender"
+    },
+    {
+      "reponse": "cote d'ivoire",
+      "format": "Cote d'Ivoire"
+    },
+    {
+      "reponse": "Maroc",
+      "format": "Morocco"
+    },
+    {
+      "reponse": "au senegal",
+      "format": "Senegal"
+    },
+    {
+      "reponse": "mali",
+      "format": "Mali"
+    },
+    {
+      "reponse": "pl",
+      "format": "GB1"
+    },
+    {
+      "reponse": "gb1",
+      "format": "GB1"
+    },
+    {
+      "reponse": "ivoirien",
+      "format": "Cote d'Ivoire"
+    },
+    {
+      "reponse": "dans le championnat anglais",
+      "format": "GB1"
+    },
+    {
+      "reponse": "dans le championnat espagnole",
+      "format": "ES1"
+    },
+    {
+      "reponse": "dans le championnat italien",
+      "format": "IT1"
+    },
+    {
+      "reponse": "dans le championnat allemand",
+      "format": "L1"
+    },
+    {
+      "reponse": "dans le championnat francais",
+      "format": "FR1"
+    },
+    {
+      "reponse": "argentine",
+      "format": "Argentina"
+    },
+    {
+      "reponse": "liga",
+      "format": "ES1"
+    },
+    {
+      "reponse": "en france",
+      "format": "France"
+    },
+    {
+      "reponse": "italienne",
+      "format": "Italy"
+    },
+    {
+      "reponse": "gardien",
+      "format": "Goalkeeper"
+    },
+    {
+      "reponse": "croatie",
+      "format": "Croatia"
+    },
+    {
+      "reponse": "en allemagne",
+      "format": "Germany"
+    },
+    {
+      "reponse": "norvegienne",
+      "format": "Norway"
+    }, 
+    {
+      "reponse": "en espagne",
+      "format": "Spain"
+    }, 
+    {
+      "reponse": "en espagne",
+      "format": "England"
+    }, 
+    {
+      "reponse": "australie",
+      "format": "Australia"
+    }, 
+  ]
+}
