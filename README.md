@@ -1,0 +1,1 @@
+Pour lancer la version terminal -> {cd mychatbot; python3 main.py }
