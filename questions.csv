@@ -1,0 +1,7 @@
+q_id,question,liaison
+1,le joueur est-il d''origine ,equipe_nationale
+2,le joueur a-il plus de ,age
+3,le joueur a-il moins de ,age
+4,le joueur joue t''il dans l''équipe nationale ,equipe_nationale
+5,le joueur joue t''il dans un ,championnat
+6,le joueur joue t''il au poste ,poste
